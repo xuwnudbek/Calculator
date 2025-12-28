@@ -13,7 +13,7 @@ Have a look at `Program.cs` file and you can see how i have used:
 
 
 > ## Currency Calculator
-> I have created `CurrencyCalculator()` method in Program.cs file and you can use to calculate between USD -> SUM or SUM to USD. I took `1 dollar = 12,000 sum`
+> I have created `CurrencyCalculator()` method in `Program.cs` file and you can use to calculate between `USD to SUM` or `SUM to USD`. I used `1 dollar = 12,000 sum`
 > ## Image
 >![CurrencyCalculator](./Assets/image_curr.png)
 
@@ -24,3 +24,4 @@ Have a look at `Program.cs` file and you can see how i have used:
 
 
 # Thank you for your attention.
+
